@@ -3,4 +3,4 @@
 - Open the project in Android Studio
 - Let Gradle sync automatically
 - Build the project
-- Run the app on an emulator or Android device
+- Run the app
